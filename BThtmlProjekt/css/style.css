@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    padding: 0px;
+}
+
+.titel div, segment div {
+    
+    text-align: center;
+}
+
+.outSide div {
+    outline: 4px solid White;
+}
+
+.headBox div {
+    outline: 1px solid #3F0668;
+    text-align: center;
+}
+
+.headBox, .headBox2, .headBox3 {
+    color: white;
+    background-color: black;
+}
+
+.headBox h2{
+    text-align:center;
+    margin-top:15px;
+}
+.inhaltBox {
+    outline: 1px solid darkblue;
+    background-color: black;
+}
+
+.sideBox div {
+    outline: 1px solid red;
+    overflow: hidden;
+}
+
+.footBox div {
+    outline: 1px solid black;
+}
+
+.lauftext {
+    padding-top: 5px;
+    background-color: rgb(0, 0, 0);
+}
+
+
+#eins {
+    color: white;
+    font-size:25pt;  /* Größe 25pt   */
+    text-align: center;
+    margin-left: 1cm;
+}
+#zwei {
+    color:white;
+    font-size:17pt;  /* Größe 17pt   */
+}
+#drei {
+    color: white;
+    font-size:35pt;  /* Größe 35pt   */
+    text-align: center;
+}
+#lauftext {
+    color: white;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    letter-spacing: 0.2em;
+    outline: 0px;
+    line-height: 2;
+    padding: 0px;
+}
